@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram - @avijatchahar
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I can learn fast to colaborate on any project if it spark my curiosity.
+Linkedin - https://www.linkedin.com/in/avijatchahar/
