@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Avijat Chahar | AI Engineer</title>
+    <meta name="description"
+        content="Portfolio of Avijat Chahar - AI & ML Engineer specializing in Computer Vision and NLP.">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@400;600;800&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="theme-noir">
+    <div class="noise-overlay"></div>
+
+    <nav class="navbar">
+        <div class="logo">AVIJATlabs</div>
+        <div class="menu-toggle">Menu</div>
+        <ul class="nav-links">
+            <li><a href="#about">About</a></li>
+            <li><a href="#work">Work</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <!-- Hero Section -->
+        <section id="hero" class="hero-section">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <p class="subtitle">AI & ML Engineer</p>
+                    <h1>CRAFTING<br>INTELLIGENCE.</h1>
+                    <div class="hero-stats">
+                        <div class="stat">
+                            <span class="num">2020</span>
+                            <span class="label">EST.</span>
+                        </div>
+                        <div class="stat">
+                            <span class="num">50+</span>
+                            <span class="label">PROJECTS</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="hero-image-container">
+                    <img src="./assets/profileimg.jpeg" alt="Avijat Chahar" class="hero-img">
+                    <div class="hero-shape"></div>
+                </div>
+            </div>
+            <div class="scroll-indicator">
+                <span>SCROLL</span>
+                <div class="line"></div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="about-section">
+            <div class="section-header">
+                <h2>About Me.</h2>
+                <svg class="wavy-line" width="100" height="20" viewBox="0 0 100 20">
+                    <path d="M0 10 Q 25 20 50 10 T 100 10" stroke="white" fill="none" class="wave-path" />
+                </svg>
+            </div>
+            <div class="about-grid">
+                <div class="about-text">
+                    <p>Hi, I'm
+                    <h2>AVIJAT CHAHAR</h2></b></p>
+                    <p>I architect neural networks that solve human problems. My work lives at the intersection of
+                        mathematical precision and creative application. Specializing in Computer Vision and Natural
+                        Language Processing, I build systems that see, understand, and interact.</p>
+                </div>
+                <div class="about-visual">
+                    <div class="neural-network-container">
+                        <svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+                            <!-- Background -->
+                            <rect width="400" height="300" fill="#000" />
+
+                            <!-- Groups of connections -->
+                            <g stroke="#333" stroke-width="1" opacity="0.6">
+                                <line x1="50" y1="150" x2="150" y2="50" />
+                                <line x1="50" y1="150" x2="150" y2="150" />
+                                <line x1="50" y1="150" x2="150" y2="250" />
+
+                                <line x1="150" y1="50" x2="250" y2="100" />
+                                <line x1="150" y1="50" x2="250" y2="200" />
+                                <line x1="150" y1="150" x2="250" y2="100" />
+                                <line x1="150" y1="150" x2="250" y2="200" />
+                                <line x1="150" y1="250" x2="250" y2="100" />
+                                <line x1="150" y1="250" x2="250" y2="200" />
+
+                                <line x1="250" y1="100" x2="350" y2="150" />
+                                <line x1="250" y1="200" x2="350" y2="150" />
+                            </g>
+
+                            <!-- Nodes with Glow -->
+                            <g fill="#fff">
+                                <!-- Input Layer -->
+                                <circle cx="50" cy="150" r="4" />
+
+                                <!-- Hidden Layer 1 -->
+                                <circle cx="150" cy="50" r="4" />
+                                <circle cx="150" cy="150" r="4" />
+                                <circle cx="150" cy="250" r="4" />
+
+                                <!-- Hidden Layer 2 -->
+                                <circle cx="250" cy="100" r="4" />
+                                <circle cx="250" cy="200" r="4" />
+
+                                <!-- Output Layer -->
+                                <circle cx="350" cy="150" r="4" />
+                            </g>
+
+                            <!-- Active Signals Animation -->
+                            <circle cx="50" cy="150" r="3" fill="#fff">
+                                <animate attributeName="cx" values="50;150;250;350" dur="2s" repeatCount="indefinite" />
+                                <animate attributeName="cy" values="150;150;100;150" dur="2s"
+                                    repeatCount="indefinite" />
+                                <animate attributeName="opacity" values="1;1;0.5;0" dur="2s" repeatCount="indefinite" />
+                            </circle>
+                            <circle cx="50" cy="150" r="3" fill="#fff">
+                                <animate attributeName="cx" values="50;150;250;350" dur="2.5s" begin="0.5s"
+                                    repeatCount="indefinite" />
+                                <animate attributeName="cy" values="150;250;200;150" dur="2.5s" begin="0.5s"
+                                    repeatCount="indefinite" />
+                                <animate attributeName="opacity" values="1;1;0.5;0" dur="2.5s" begin="0.5s"
+                                    repeatCount="indefinite" />
+                            </circle>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Work Section -->
+        <section id="work" class="work-section">
+            <div class="section-header">
+                <h2>Sample Work.</h2>
+                <div class="work-counter">01 // 03</div>
+            </div>
+
+            <div class="project-grid">
+                <article class="project-card">
+                    <div class="project-info">
+                        <h3>01</h3>
+                        <h4>Vision Systems</h4>
+                        <p>Real-time object detection architecture for autonomous navigation.</p>
+                    </div>
+                    <div class="project-image">
+                        <img src="./assets/project_vision.png" alt="Computer Vision Architecture" class="project-img">
+                    </div>
+                </article>
+
+                <article class="project-card offset-card">
+                    <div class="project-info">
+                        <h3>02</h3>
+                        <h4>NLP Core</h4>
+                        <p>Large Language Model fine-tuning for specialized legal context analysis.</p>
+                    </div>
+                    <div class="project-image">
+                        <!-- Placeholder -->
+                        <div class="img-placeholder" id="project-nlp-ph"></div>
+                    </div>
+                </article>
+
+                <article class="project-card">
+                    <div class="project-info">
+                        <h3>03</h3>
+                        <h4>Generative Art</h4>
+                        <p>Exploring the boundaries of AI creativity through diffusion models.</p>
+                    </div>
+                    <div class="project-image">
+                        <!-- Placeholder -->
+                        <div class="img-placeholder" id="project-gen-ph"></div>
+                    </div>
+                </article>
+            </div>
+        </section>
+
+        <!-- Testimonials -->
+        <section class="testimonial-section">
+            <div class="section-header">
+                <h2>Client Testimonials.</h2>
+            </div>
+            <div class="testimonial-card">
+                <div class="quote-mark">"</div>
+                <blockquote>Avijat transforms abstract data into tangible solutions. His approach to AI architecture is
+                    both efficient and visionary.</blockquote>
+                <cite>
+                    <div class="author">Yael Amari</div>
+                    <div class="role">CTO, TechFlow</div>
+                </cite>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <section id="contact" class="footer-section">
+            <div class="footer-content">
+                <h2>Stay in Touch.</h2>
+                <div class="contact-grid">
+                    <div class="contact-image">
+                        <img src="./assets/profile_small.jpeg" alt="Avijat Chahar" class="contact-img">
+                    </div>
+                    <div class="contact-details">
+                        <div class="detail-group">
+                            <span class="label">Country of Origin</span>
+                            <p>India</p>
+                        </div>
+                        <div class="detail-group">
+                            <span class="label">Email</span>
+                            <a href="mailto:avijat1chahar@gmail.com">avijat1chahar@gmail.com</a>
+                        </div>
+                        <div class="detail-group">
+                            <span class="label">Socials</span>
+                            <div class="social-links">
+                                <a href="https://www.linkedin.com/in/avijatchahar/">LinkedIn</a>
+                                <a href="https://github.com/AvijatChahar">GitHub</a>
+                                <a href="https://www.instagram.com/avijatchahar/">Instagram</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
