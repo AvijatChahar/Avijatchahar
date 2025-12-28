@@ -121,8 +121,20 @@ section {
 
     .nav-links {
         display: flex;
+        position: static;
+        flex-direction: row;
+        width: auto;
+        padding: 0;
+        background: none;
+        border: none;
         gap: 3rem;
         list-style: none;
+        clip-path: none;
+    }
+
+    .nav-links li {
+        opacity: 1;
+        transform: translateY(0);
     }
 
     .nav-links li a {
@@ -145,6 +157,81 @@ section {
 
     .nav-links li a:hover::after {
         width: 100%;
+    }
+}
+
+/* Mobile Menu Styles */
+@media (max-width: 767px) {
+    .nav-links {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 100%;
+        right: var(--spacing-container);
+        background: rgba(12, 12, 12, 0.95);
+        backdrop-filter: blur(10px);
+        width: 200px;
+        padding: 1.5rem;
+        border-radius: 1rem;
+        border: 1px solid #333;
+        gap: 1.5rem;
+        list-style: none;
+        /* Animation setup */
+        transform-origin: top right;
+        transform: scale(0.95);
+        opacity: 0;
+        visibility: hidden;
+        transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+            opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+            visibility 0.3s step-end;
+    }
+
+    .nav-links.active {
+        transform: scale(1);
+        opacity: 1;
+        visibility: visible;
+        transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+            opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+            visibility 0s step-start;
+    }
+
+    .nav-links li {
+        opacity: 0;
+        transform: translateY(-10px);
+        transition: opacity 0.3s ease, transform 0.3s ease;
+    }
+
+    .nav-links.active li {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    /* Stagger delay for list items */
+    .nav-links.active li:nth-child(1) {
+        transition-delay: 0.1s;
+    }
+
+    .nav-links.active li:nth-child(2) {
+        transition-delay: 0.15s;
+    }
+
+    .nav-links.active li:nth-child(3) {
+        transition-delay: 0.2s;
+    }
+
+    .nav-links li a {
+        font-size: 1rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        display: block;
+        padding: 0.5rem 0;
+        border-bottom: 1px solid transparent;
+        transition: border-color 0.3s ease, padding-left 0.3s ease;
+    }
+
+    .nav-links li a:hover {
+        border-color: #333;
+        padding-left: 0.5rem;
     }
 }
 
@@ -532,6 +619,7 @@ blockquote {
     opacity: 1;
     transform: translateY(0);
 }
+
 /* Contact Small Image */
 .contact-img {
     width: 150px;
