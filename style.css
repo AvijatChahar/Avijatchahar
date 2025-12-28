@@ -101,6 +101,11 @@ section {
     font-family: var(--font-heading);
     font-weight: 700;
     font-size: 1.5rem;
+    transition: opacity 0.3s ease;
+}
+
+.logo:hover {
+    opacity: 0.8;
 }
 
 .nav-links {
@@ -108,10 +113,30 @@ section {
 }
 
 .menu-toggle {
-    font-family: var(--font-body);
-    text-transform: uppercase;
-    font-size: 0.9rem;
     cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.menu-toggle svg {
+    display: block;
+    transition: transform 0.3s ease;
+}
+
+/* Hide close icon by default */
+.menu-toggle .icon-close {
+    display: none;
+}
+
+/* When expanded, hide menu icon and show close icon */
+.menu-toggle[aria-expanded="true"] .icon-menu {
+    display: none;
+}
+
+.menu-toggle[aria-expanded="true"] .icon-close {
+    display: block;
 }
 
 @media(min-width: 768px) {

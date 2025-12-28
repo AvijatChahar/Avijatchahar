@@ -9,20 +9,12 @@ document.addEventListener('DOMContentLoaded', () => {
             const isExpanded = menuToggle.getAttribute('aria-expanded') === 'true';
             menuToggle.setAttribute('aria-expanded', !isExpanded);
             navLinks.classList.toggle('active');
-
-            // Toggle menu text
-            if (navLinks.classList.contains('active')) {
-                menuToggle.textContent = 'Close';
-            } else {
-                menuToggle.textContent = 'Menu';
-            }
         });
 
         // Close menu when clicking outside
         document.addEventListener('click', (e) => {
             if (!menuToggle.contains(e.target) && !navLinks.contains(e.target) && navLinks.classList.contains('active')) {
                 navLinks.classList.remove('active');
-                menuToggle.textContent = 'Menu';
                 menuToggle.setAttribute('aria-expanded', 'false');
             }
         });
@@ -31,7 +23,6 @@ document.addEventListener('DOMContentLoaded', () => {
         navLinksItems.forEach(link => {
             link.addEventListener('click', () => {
                 navLinks.classList.remove('active');
-                menuToggle.textContent = 'Menu';
                 menuToggle.setAttribute('aria-expanded', 'false');
             });
         });
