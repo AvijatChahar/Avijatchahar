@@ -1,0 +1,23 @@
+[
+    {
+        "id": "echoes-of-analog",
+        "title": "Echoes of Analog",
+        "date": "March 10, 2026",
+        "summary": "Why the future of AI hardware might be found in the past, through the prism of optical computing.",
+        "filename": "echoes-of-analog.md"
+    },
+    {
+        "id": "ghost-in-the-gradient",
+        "title": "Ghost in the Gradient",
+        "date": "February 02, 2026",
+        "summary": "When reinforcement learning agents exploit physics engines, they aren't glitching—they're optimizing.",
+        "filename": "ghost-in-the-gradient.md"
+    },
+    {
+        "id": "architecture-of-silence",
+        "title": "The Architecture of Silence",
+        "date": "January 15, 2026",
+        "summary": "Exploring the concept of sparsity in neural networks: teaching models to whisper instead of scream.",
+        "filename": "architecture-of-silence.md"
+    }
+]
