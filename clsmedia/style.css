@@ -165,13 +165,14 @@ ul {
 .hero-title {
     font-size: clamp(2.5rem, 5vw, 4rem);
     margin-bottom: var(--spacing-md);
+    margin-top: calc(var(--spacing-lg) - 30px);
     letter-spacing: -0.02em;
 }
 
 .hero-subtitle {
     font-size: clamp(1.125rem, 2vw, 1.25rem);
     color: var(--text-muted);
-    margin-bottom: var(--spacing-lg);
+    margin-bottom: var(--spacing-md);
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
@@ -190,6 +191,65 @@ ul {
     border-top: 1px solid var(--border-color);
     border-bottom: 1px solid var(--border-color);
     background-color: rgba(255, 255, 255, 0.02);
+}
+
+/* Image Modal Specifics */
+.image-modal .modal-content-img {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 800px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    animation-name: zoom;
+    animation-duration: 0.3s;
+}
+
+.image-modal {
+    padding-top: 20px;
+    /* Reduced top padding for more space */
+    padding-bottom: 50px;
+    /* space at bottom */
+    text-align: center;
+}
+
+@keyframes zoom {
+    from {
+        transform: scale(0)
+    }
+
+    to {
+        transform: scale(1)
+    }
+}
+
+.close-image-modal {
+    position: fixed;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+    cursor: pointer;
+    z-index: 2001;
+}
+
+.close-image-modal:hover,
+.close-image-modal:focus {
+    color: var(--primary-color);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* Case Card Image Hover */
+.case-card img {
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.case-card img:hover {
+    transform: scale(1.05);
 }
 
 .credibility-grid {
@@ -317,6 +377,13 @@ section {
     font-weight: 500;
     color: var(--text-muted);
     border: 1px solid var(--border-color);
+}
+
+.case-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    display: block;
 }
 
 /* Process Section */
@@ -469,6 +536,8 @@ section {
     backdrop-filter: blur(5px);
     opacity: 0;
     transition: opacity 0.3s ease;
+    overflow-y: auto;
+    /* Enable vertical scrolling */
 }
 
 .modal.show {

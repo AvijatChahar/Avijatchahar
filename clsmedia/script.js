@@ -1,46 +1,71 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const modal = document.getElementById('contactModal');
-    const openBtns = document.querySelectorAll('.open-modal-btn');
-    const closeBtn = document.querySelector('.close-modal');
+    // Contact Modal
+    const contactModal = document.getElementById('contactModal');
+    const openContactBtns = document.querySelectorAll('.open-modal-btn');
+    const closeContactBtn = document.querySelector('.close-modal');
 
-    function openModal() {
+    // Image Modal
+    const imageModal = document.getElementById('imageModal');
+    const modalImg = document.getElementById("img01");
+    const caseImages = document.querySelectorAll('.case-card img');
+    const closeImageModalBtn = document.querySelector('.close-image-modal');
+
+    // Helper to open modal
+    function openModal(modal) {
         modal.style.display = 'block';
-        // Small timeout to allow display:block to apply before opacity transition
         setTimeout(() => {
             modal.classList.add('show');
         }, 10);
-        document.body.style.overflow = 'hidden'; // Prevent background scrolling
+        document.body.style.overflow = 'hidden';
     }
 
-    function closeModal() {
+    // Helper to close modal
+    function closeModal(modal) {
         modal.classList.remove('show');
         setTimeout(() => {
             modal.style.display = 'none';
             document.body.style.overflow = '';
-        }, 300); // Match CSS transition duration
+        }, 300);
     }
 
-    // Event Listeners
-    openBtns.forEach(btn => {
+    // Contact Modal Events
+    openContactBtns.forEach(btn => {
         btn.addEventListener('click', (e) => {
-            e.preventDefault(); // Prevent default anchor behavior
-            openModal();
+            e.preventDefault();
+            openModal(contactModal);
         });
     });
 
-    closeBtn.addEventListener('click', closeModal);
+    if (closeContactBtn) {
+        closeContactBtn.addEventListener('click', () => closeModal(contactModal));
+    }
 
-    // Close when clicking outside
+    // Image Modal Events
+    caseImages.forEach(img => {
+        img.addEventListener('click', function () {
+            modalImg.src = this.src;
+            openModal(imageModal);
+        });
+    });
+
+    if (closeImageModalBtn) {
+        closeImageModalBtn.addEventListener('click', () => closeModal(imageModal));
+    }
+
+    // Global Close (Click Outside or Escape)
     window.addEventListener('click', (e) => {
-        if (e.target === modal) {
-            closeModal();
+        if (e.target === contactModal) {
+            closeModal(contactModal);
+        }
+        if (e.target === imageModal) {
+            closeModal(imageModal);
         }
     });
 
-    // Close on Escape key
     document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape' && modal.classList.contains('show')) {
-            closeModal();
+        if (e.key === 'Escape') {
+            if (contactModal.classList.contains('show')) closeModal(contactModal);
+            if (imageModal && imageModal.classList.contains('show')) closeModal(imageModal);
         }
     });
 });
