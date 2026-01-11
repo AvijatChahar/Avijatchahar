@@ -358,11 +358,20 @@ section {
 }
 
 /* Placeholder Case Studies */
-.case-card.placeholder {
+/* Case Cards with Images */
+.case-card {
     aspect-ratio: 16/9;
+    padding: 0;
+    /* Remove padding to wrap image like placeholder */
+    overflow: hidden;
+    position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.case-card.placeholder {
+    /* Keep specific placeholder styles if needed, but base styles are now on .case-card */
     background: repeating-linear-gradient(45deg,
             var(--card-bg),
             var(--card-bg) 10px,
@@ -381,8 +390,11 @@ section {
 
 .case-card img {
     width: 100%;
-    height: auto;
-    border-radius: 4px;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 0;
+    /* Let card border radius handle it via overflow hidden */
     display: block;
 }
 
