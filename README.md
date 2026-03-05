@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Avijat Chahar
 
-> I'm an AI & ML Engineer from India with a passion for building systems that make machines truly useful to humans. I've been working at the intersection of math, creativity, and engineering since 2020 — whether that's teaching a camera to navigate the world or fine-tuning language models for real-world tasks. When I'm not architecting neural networks, I'm probably reading about philosophy of mind or exploring generative art.
+> I'm an AI & ML Engineer from India. I create automations for businesses to reduce their time and resources. While giving them quality of work.
+> Avijatlabs provide services like social media automation, crm softwares, website & app development, seo optimization, and performance marketing.
 
 ---
 
@@ -17,19 +18,6 @@ Specializing in **Computer Vision** and **Natural Language Processing**, I build
 
 ---
 
-## 🔨 Featured Projects
-
-### 👁️ Vision Systems
-Real-time object detection architecture for autonomous navigation. Built for performance at the edge.
-
-### 🗣️ NLP Core
-Large Language Model fine-tuning for specialized **legal context analysis**. Domain adaptation meets production-grade deployment.
-
-### 🎨 Generative Art
-Exploring the boundaries of AI creativity through **diffusion models** — where math becomes art.
-
----
-
 ## 🛠️ Tech Stack
 
 ```
@@ -42,38 +30,92 @@ Deployment           │ ONNX · TensorRT · Docker · FastAPI
 
 ---
 
-## 📊 GitHub Stats
+# 📈 CLS Media
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvijatChahar&show_icons=true&theme=dark&hide_border=true" alt="Avijat's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvijatChahar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+### We Help Businesses Scale With Paid Ads and High-Performing Social Content
+
+> *No vague promises. Clear systems that get clients, calls, and cash.*
+
+🌐 **[clsmedia.avijatlabs.com](https://avijatlabs.com/clsmedia/index.html)** · Performance-based options available.
 
 ---
 
-## 📬 Contact Me
+## 🚀 Results at a Glance
 
-<!-- CONTACT ME — Update any links or add your own preferred channels -->
+| Metric | Result |
+|--------|--------|
+| 📊 Lead Volume Increase | **+35%** |
+| 💰 Return on Ad Spend | **4.2x ROAS** |
+| ⏱️ Growth Sprint Duration | **90 Days** |
 
-I'm always open to interesting problems, collaborations, or just a good conversation about AI.
+✅ Results-focused · ⚡ Fast turnaround · 🧠 Data-driven · 🔁 Proven systems
 
-| Platform   | Link |
-|------------|------|
-| 🌐 Website  | [avijatlabs.com](https://avijatlabs.com) |
-| 📧 Email    | [avijat1chahar@gmail.com](mailto:avijat1chahar@gmail.com) |
+---
+
+## 🛠️ Services
+
+### 💰 Paid Ads — Meta / Google
+- Audience building & targeting
+- Offer testing & creative iteration
+- Ad creative, pixel setup & conversion tracking
+
+### 📱 Content + Social Growth — Organic & Brand
+- Short-form video editing
+- Weekly content posting system
+- Engagement loops & community growth
+
+### 🔗 Lead & Appointment Systems — Conversion Infrastructure
+- High-converting funnels
+- CRM setup & marketing automation
+- Follow-up sequences & lead nurturing
+
+---
+
+## 🏆 Recent Client Wins
+
+| Client | Outcome |
+|--------|---------|
+| 🎨 Paint & Chaos | Growth via targeted paid ads |
+| 👗 ATTIRE | Brand content + social scaling |
+| 🚗 CarRental | Lead gen & appointment system |
+
+> We also build high-converting websites for your brand.
+
+---
+
+## ⚙️ How We Work
+
+```
+01 AUDIT       →   Analyze your current setup to find leaks and opportunities
+02 STRATEGY    →   Build a custom roadmap to hit your specific revenue goals  
+03 EXECUTION   →   Launch, test, and optimize aggressively for maximum ROI
+```
+
+---
+
+## 💡 Why CLS Media?
+
+We believe **acquisition should be predictable, not random.**
+
+Too many businesses rely on hope marketing. We rely on **data, systems, and relentless execution** — turning your ad spend into a reliable growth engine.
+
+---
+
+## 📬 Contact
+
+Ready to grow without guessing? Let's talk.
+
+| Channel | Details |
+|---------|---------|
+| 📞 Phone | [+91 (800) 564-0180](tel:+918005640180) |
+| ✉️ Email | [avijat1chahar@gmail.com](mailto:avijat1chahar@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/avijatchahar](https://www.linkedin.com/in/avijatchahar/) |
-| 🐙 GitHub   | [github.com/AvijatChahar](https://github.com/AvijatChahar) |
+| 🐦 Twitter / X | [x.com/avijatchahar](https://x.com/avijatchahar) |
 | 📸 Instagram | [instagram.com/avijatchahar](https://www.instagram.com/avijatchahar/) |
 
 ---
 
 <p align="center">
-  <i>"Avijat transforms abstract data into tangible solutions. His approach to AI architecture is both efficient and visionary."</i><br/>
-  <b>— Yael Amari, CTO @ TechFlow</b>
-</p>
-
----
-
-<p align="center">
-  Made with ❤️ & a lot of gradient descent · <a href="https://avijatlabs.com">avijatlabs.com</a>
+  <b>© 2026 CLS Media · All rights reserved.</b><br/>
+  A venture by <a href="https://avijatlabs.com">AVIJATlabs</a>
 </p>
