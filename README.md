@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Avijat Chahar
 
-<!-- ABOUT ME — Fill in a few lines about yourself here -->
-> ✏️ *Tell the world something about yourself — your background, what drives you, a fun fact, or your current focus. Replace this block with your own words!*
-
-Example:
 > I'm an AI & ML Engineer from India with a passion for building systems that make machines truly useful to humans. I've been working at the intersection of math, creativity, and engineering since 2020 — whether that's teaching a camera to navigate the world or fine-tuning language models for real-world tasks. When I'm not architecting neural networks, I'm probably reading about philosophy of mind or exploring generative art.
 
 ---
