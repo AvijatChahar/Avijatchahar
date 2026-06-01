@@ -44,11 +44,8 @@ I'm an AI & ML Engineer from India. I create automations for businesses to reduc
 ![](https://github-readme-stats.shion.dev/api?username=AvijatChahar&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AvijatChahar&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://streak-stats.demolab.com/?user=AvijatChahar&theme=midnight-purple&hide_border=false)<br/>
-</center>
-
 
 ---
-[![](https://komarev.com/ghpvc/?username=AvijatChahar&icon=2&color=4)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AvijatChahar) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/AvijatChahar) 
