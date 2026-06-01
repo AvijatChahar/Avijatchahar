@@ -59,7 +59,7 @@ I'm an AI & ML Engineer from India. I create automations for businesses to reduc
 
 > *No vague promises. Clear systems that get clients, calls, and cash.*
 
-🌐 **[clsmedia.avijatlabs.com](https://avijatlabs.com/clsmedia/index.html)** · Performance-based options available.
+🌐 **[clsmedia.avijatlabs.com](https://clsmedia.avijatlabs.com/index.html)** · Performance-based options available.
 
 ---
 
