@@ -12,7 +12,7 @@ I architect neural networks that solve human problems. My work lives at the inte
 Specializing in **Computer Vision** and **Natural Language Processing**, I build systems that see, understand, and interact.
 
 - 🌍 Based in **India**
-- 🚀 Founder of **[AVIJATlabs](https://avijatlabs.com)**
+- 🚀 Founder of **[AVIJATlabs](https://avijatchahar.github.io/Avijatchahar/)**
 - 💼 **50+ Projects** delivered since 2020
 - 📝 I write about AI/ML on my [Blog](https://avijatlabs.com/blog.html)
 
@@ -43,7 +43,6 @@ I'm an AI & ML Engineer from India. I create automations for businesses to reduc
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AvijatChahar&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AvijatChahar&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://streak-stats.demolab.com/?user=AvijatChahar&theme=midnight-purple&hide_border=false)<br/>
 
 ---
 
@@ -140,5 +139,5 @@ Ready to grow without guessing? Let's talk.
 
 <p align="center">
   <b>© 2026 CLS Media · All rights reserved.</b><br/>
-  A venture by <a href="https://avijatlabs.com">AVIJATlabs</a>
+  A venture by <a href="https://avijatchahar.github.io/Avijatchahar/">AVIJATlabs</a>
 </p>
