@@ -1,4 +1,5 @@
-<img href="/assets/Avijatlabs.png">
+![Avijat](/assets/Avijatlabs.png)
+
 <h1 align="center">Hi 👋, I'm Avijat Chahar</h1>
 <h3 align="center">AI Engineer - Full Stack Developer</h3>
 I'm Avijat Chahar, an AI automation Engineer. I create automation workflows for businesses to reduce their time and resources. 
