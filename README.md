@@ -2,11 +2,20 @@
 <h3 align="center">AI Engineer - Full Stack Developer</h3>
 I'm Avijat Chahar, an AI automation Engineer. I create automation workflows for businesses to reduce their time and resources. 
 While increasing their profits.<br>
-🔭 Working on AuraBrandOS - AI saas for Founders to Create Brands and Content Automation.<br>
+🔭 currently juicing [AuraBrandOS](https://github.com/AvijatChahar/AuraBrandOS)
+👨‍💻 Portfolio [https://avijatchahar.github.io/Avijatchahar/](https://avijatchahar.github.io/Avijatchahar/)
 🚀 Founder of AVIJATlabs<br>
-📝 I write about AI/ML on my Blog<br>
+📝 I write articles on [My Blog](https://avijatchahar.github.io/Avijatchahar/blog.html)
 ⚡  Fun fact - I love chess and thinking in systems <br>
 🌍 Based in India<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/avijatchahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avijatchahar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avijatchahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avijatchahar" height="30" width="40" /></a>
+<a href="https://instagram.com/avijatchahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avijatchahar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/avijatchahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avijatchahar" height="30" width="40" /></a>
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9qvuZgTH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AvijatChahar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AvijatChahar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AvijatChahar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AvijatChahar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avijat1chahar@gmail.com) 
