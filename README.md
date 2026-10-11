@@ -99,6 +99,31 @@ const avijat_chahar = {
 - 🌐 RESTful API integration
 - ✅ Digital signature verification
 
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1xMGd5Z2loMW1jcG9vbTV1NHJ0czE0bWV2eXI3am52dmF0Z3d3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l7tZfMuVLiJnkoRzNA/giphy.gif" width="80" alt="Trophy"/>
+<br><strong>Intercollege Chess champion</strong>
+<br><small> 100+ participants from 20+ colleges</small>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlkYXJjcnZ0ZmRuOHluN29jM2pvbDV1NHdld2sxZTltbm1ubWNtbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XNQDgvHvDFnITnAAU5/giphy.gif" width="80" alt="Hackathon"/>
+<br><strong>2nd Engineer's Day Quiz</strong>
+<br><small>Technical problem-solving</small>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHI5dDdkd2xlanFjczZwdWsxZTg1bG1nbHI4M3hpMjVvYXVwd2QyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JrmAUL1NoyIXjbIY6t/giphy.gif" width="80" alt="Leadership"/>
+<br><strong>Hackathon Tech Incharge</strong>
+<br><small>hosted Enigma 2026 at RIET, jaipur</small>
+</td>
+</td>
+</tr>
+</table>
+
 
 ## 🎯 Current Focus Areas
 
