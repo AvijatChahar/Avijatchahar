@@ -157,6 +157,9 @@ graph TD
 
 
 <h3>Connect with me</h3>
+
+---
+
 <div align="left">
 <p>
 <a href="https://x.com/avijatchahar" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="avijatchahar" height="30" width="40" /></a>
@@ -166,3 +169,23 @@ graph TD
 <a href="mailto:avijat1chahar@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="avijatchahar" height="30" width="40" /></a>
 </p>
 </div>
+
+### 💬 Open for
+
+---
+
+<div align="center">
+    
+🚀 **Exciting Project Collaborations** & ☕ **Tech Discussions over Coffee**<br>
+💼 **Full-Stack Development Roles**<br>
+🎯 **Freelance Projects**<br>
+
+
+---
+
+<sub>💖 Crafted with passion and a lot of ☕ by Avijat Chahar.</sub>
+
+![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+</div>
+
