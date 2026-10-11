@@ -152,13 +152,13 @@ graph TD
 </div>
 
 ## 📊 GitHub Stats
-<div align="center">
     
 ![](https://github-readme-stats.shion.dev/api?username=avijatchahar&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=avijatchahar&theme=midnight-purple&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=avijatchahar&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
     
 # 💻 Tech Arsenal
+<div align="center">
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## 🌐 Frontend Development
