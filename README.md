@@ -2,8 +2,8 @@
 <h3 align="center">AI Engineer - Full Stack Developer</h3>
 I'm Avijat Chahar, an AI automation Engineer. I create automation workflows for businesses to reduce their time and resources. 
 While increasing their profits.<br>
-🔭 currently juicing [AuraBrandOS](https://github.com/AvijatChahar/AuraBrandOS)
-👨‍💻 Portfolio [https://avijatchahar.github.io/Avijatchahar/](https://avijatchahar.github.io/Avijatchahar/)
+🔭 currently juicing [![AuraBrandOS](https://github.com/AvijatChahar/AuraBrandOS)
+👨‍💻 [![Portfolio](https://avijatchahar.github.io/Avijatchahar/)
 🚀 Founder of AVIJATlabs<br>
 📝 I write articles on [My Blog](https://avijatchahar.github.io/Avijatchahar/blog.html)
 ⚡  Fun fact - I love chess and thinking in systems <br>
