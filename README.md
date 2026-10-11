@@ -74,7 +74,7 @@ const avijat_chahar = {
 </tr>
 </table>
 
-### 🔐 Digital Signature Solution *(Freelance Project)*
+### 🔐 *(Freelance Project)* Digital Signature Solution 
 *Secure Web & Desktop Signature Management System for NZESSENTIALS*
 
 <div align="center">
