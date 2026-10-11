@@ -10,7 +10,7 @@ const avijat_chahar = {
     location: "Jaipur, India 🇮🇳",
     education: "B.Tech Artificial Intelligence & Data Science @ RIET, Jaipur",
     passion: ["Artificial Intelligence", "Problem Solving", "Chess", "Jogging"],
-    currentFocus: "AuraBrandOS - Leaverage AI to help founders create systems for brand and content creation",
+    currentFocus: "AuraBrandOS - Help founders create systems for brand and content creation",
     funFact: "I can cover 3KM in 15mins",
     philosophy: "Code with purpose, innovate with passion"
 };
