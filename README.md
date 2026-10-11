@@ -2,16 +2,17 @@
 <h3 align="center">AI Engineer - Full Stack Developer</h3>
 I'm Avijat Chahar, an AI automation Engineer. I create automation workflows for businesses to reduce their time and resources. 
 While increasing their profits.<br>
-🔭 currently juicing [![AuraBrandOS](https://github.com/AvijatChahar/AuraBrandOS)
-👨‍💻 [![Portfolio](https://avijatchahar.github.io/Avijatchahar/)
+
+🔭 currently juicing [AuraBrandOS](https://github.com/AvijatChahar/AuraBrandOS)<br>
+👨‍💻 [Portfolio](https://avijatchahar.github.io/Avijatchahar/)<br>
 🚀 Founder of AVIJATlabs<br>
-📝 I write articles on [My Blog](https://avijatchahar.github.io/Avijatchahar/blog.html)
+📝 I write articles on [My Blog](https://avijatchahar.github.io/Avijatchahar/blog.html)<br>
 ⚡  Fun fact - I love chess and thinking in systems <br>
 🌍 Based in India<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/avijatchahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avijatchahar" height="30" width="40" /></a>
+<a href="https://twitter.com/avijatchahar" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="avijatchahar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/avijatchahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avijatchahar" height="30" width="40" /></a>
 <a href="https://instagram.com/avijatchahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avijatchahar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/avijatchahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avijatchahar" height="30" width="40" /></a>
