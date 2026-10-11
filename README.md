@@ -2,12 +2,8 @@
 ---
 # 💫 About Me: 
 I'm Avijat Chahar, an AI automation Engineer. I create automation workflows for businesses to reduce their time and resources. While increasing their profits. <br>
-🔭 **Working on:** AI Automation & AI Agents  
-🤝 **Collaborate on:** AI Projects & Open Source  
-🆘 **Looking for help with:** Building AI Products  
-🌱 **Currently learning:** AI Engineering & LLMs  
-💬 **Ask me about:** Python, Web Dev & Automation  
-⚡ **Fun fact:** I love chess and thinking in systems ♟️
+🔭 Working on: AuraBrandOS - AI saas for Founders to Create Brands and Content Automation.  
+⚡  Fun fact: I love chess and thinking in systems ♟️
 🌍 Based in India<br>
 🚀 Founder of AVIJATlabs<br>
 📝 I write about AI/ML on my Blog
