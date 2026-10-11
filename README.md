@@ -92,6 +92,32 @@ const avijat_chahar = {
 
 ---
 
+## 🎯 Current Focus Areas
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🎯 Current Focus] --> B[🤖 AI/ML Applications]
+    A --> C[🌐 Full-Stack Development]
+    A --> D[📊 Data Science Projects]
+    
+    B --> F[NLP Solutions]
+    B --> G[Computer Vision]
+    B --> H[RAG Systems]
+    
+    C --> I[React/Next.js Apps]
+    C --> J[Node.js APIs]
+    C --> K[Cloud Deployment]
+    
+    D --> L[Predictive Modeling]
+    D --> M[Data Visualization]
+    D --> N[Analytics Dashboards]
+    
+```
+
+</div>
+
 <div align="center">
 
 ## 📊 GitHub Stats
