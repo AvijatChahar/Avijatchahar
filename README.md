@@ -1,5 +1,4 @@
-<img width="2172" height="724" alt="Avijat Chahar Dark Mode Brand Banner" src="https://github.com/user-attachments/assets/26df85ab-1f7a-4a06-b85d-5689aa344d7c" />
-![Avijat](/assets/Avijatlabs.png)
+<img width="2095" height="546" alt="Avijat Chahar Dark Mode Brand Banner (1)" src="https://github.com/user-attachments/assets/a5daf3b9-2416-41e8-8aec-49e81dd2fcb0" />
 
 <h1 align="center">Hi 👋, I'm Avijat Chahar</h1>
 <h3 align="center">AI Engineer - Full Stack Developer</h3>
