@@ -7,7 +7,7 @@ While increasing their profits.<br>
 👨‍💻 [Portfolio](https://avijatchahar.github.io/Avijatchahar/)<br>
 🚀 Founder of AVIJATlabs<br>
 📝 I write articles on [My Blog](https://avijatchahar.github.io/Avijatchahar/blog.html)<br>
-⚡  Fun fact - I love chess and thinking in systems <br>
+⚡  Fun fact - I love [chess](https://www.chess.com/member/avijatchahar) and football. <br>
 🌍 Based in India<br>
 
 <h3 align="left">Connect with me:</h3>
