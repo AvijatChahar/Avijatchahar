@@ -3,11 +3,10 @@
 # 💫 About Me: 
 I'm Avijat Chahar, an AI automation Engineer. I create automation workflows for businesses to reduce their time and resources. While increasing their profits. <br>
 🔭 Working on: AuraBrandOS - AI saas for Founders to Create Brands and Content Automation.  
-⚡  Fun fact: I love chess and thinking in systems <br>
-🌍 Based in India<br>
 🚀 Founder of AVIJATlabs<br>
 📝 I write about AI/ML on my Blog
-
+⚡  Fun fact: I love chess and thinking in systems <br>
+🌍 Based in India<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9qvuZgTH) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AvijatChahar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AvijatChahar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AvijatChahar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/AvijatChahar) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/AvijatChahar) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/AvijatChahar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AvijatChahar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AvijatChahar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avijat1chahar@gmail.com) 
