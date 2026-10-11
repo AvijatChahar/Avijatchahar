@@ -74,6 +74,24 @@ const avijat_chahar = {
 </tr>
 </table>
 
+### 🔐 Digital Signature Solution *(Freelance Project)*
+*Secure Web & Desktop Signature Management System for NZESSENTIALS*
+
+<div align="center">
+
+![Project Demo](https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-Enterprise_Grade-red?style=for-the-badge)
+
+</div>
+
+**Key Features:**
+- 🔒 Secure signature capture & storage
+- 🖥️ Cross-platform desktop application
+- 🌐 RESTful API integration
+- ✅ Digital signature verification
+
+---
+
 <div align="center">
 
 ## 📊 GitHub Stats
