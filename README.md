@@ -51,7 +51,8 @@ const avijat_chahar = {
 ### 🤖 AuraBrandOS
 *Advanced NLP-powered Social Media Analytics Platform*
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/AvijatChahar/AuraBrandOS)
+[![GitHub](https://gh-stamps.vercel.app/api/View%20Code?fontSize=14&borderRadius=6&borderWidth=0&padding=10&backgroundColor=121212&color=white&borderColor=0b76b0&icon=github&iconStyle=brands&shadowX=5&shadowY=3&shadowBlur=2&iconColor=18d88e)](https://github.com/AvijatChahar/AuraBrandOS)
+![Live Demo](https://gh-stamps.vercel.app/api/Live%20Demo?fontSize=14&borderRadius=6&borderWidth=0&padding=10&backgroundColor=ffffff&color=000000&borderColor=0b76b0&icon=bilibili&iconStyle=brands&shadowX=5&shadowY=3&shadowBlur=2&iconColor=08d958)
 
 **🎯 Impact:**
 - 📈 45% improvement in behavior tagging accuracy
@@ -67,7 +68,8 @@ const avijat_chahar = {
 ### 📋 Air-Draw
 *AI-Powered whiteboard work from hand gestures*
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/AvijatChahar/Air-Draw)
+  [![GitHub](https://gh-stamps.vercel.app/api/View%20Code?fontSize=14&borderRadius=6&borderWidth=0&padding=10&backgroundColor=121212&color=white&borderColor=0b76b0&icon=github&iconStyle=brands&shadowX=5&shadowY=3&shadowBlur=2&iconColor=18d88e)](https://github.com/AvijatChahar/Air-Draw) 
+  [![Live Project](https://gh-stamps.vercel.app/api/Live%20Demo?fontSize=14&borderRadius=6&borderWidth=0&padding=10&backgroundColor=ffffff&color=000000&borderColor=0b76b0&icon=bilibili&iconStyle=brands&shadowX=5&shadowY=3&shadowBlur=2&iconColor=08d958)](https://air-draw-ashy.vercel.app/)
 
 **🎯 Impact:**
 - 🎯 60% boost in matching accuracy
@@ -182,11 +184,11 @@ graph TD
 </div>
 
 
+<div align="left">
 <h3>Connect with me</h3>
 
 ---
 
-<div align="left">
 <p>
 <a href="https://x.com/avijatchahar" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="avijatchahar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/avijatchahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avijatchahar" height="30" width="40" /></a>
