@@ -1,4 +1,6 @@
-<img width="2095" height="546" alt="Avijat Chahar Dark Mode Brand Banner (1)" src="https://github.com/user-attachments/assets/a5daf3b9-2416-41e8-8aec-49e81dd2fcb0" />
+<!-- <img width="2095" height="546" alt="Avijat Chahar Dark Mode Brand Banner (1)" src="https://github.com/user-attachments/assets/a5daf3b9-2416-41e8-8aec-49e81dd2fcb0" /> -->
+<img width="1983" height="793" alt="Golden Rush_ Avijat Chahar" src="https://github.com/user-attachments/assets/a480e39c-d949-43b5-88f8-b899c48999d4" />
+
 <h3 align="center">AI Engineer - Full Stack Developer</h3>
 
 > *"I create websites and automate workflows for businesses to reduce their time and resources. While increasing their profits."*
