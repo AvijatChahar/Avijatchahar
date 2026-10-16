@@ -65,7 +65,7 @@ const avijat_chahar = {
 <tr>
 <td width="50%">
 
-### 🤖 AuraBrandOS
+### 🤖 AuraBrandOS (Still Cooking)
 *Advanced NLP-powered Social Media Analytics Platform*
 
 [![GitHub](https://gh-stamps.vercel.app/api/View%20Code?fontSize=14&borderRadius=6&borderWidth=0&padding=10&backgroundColor=121212&color=white&borderColor=0b76b0&icon=github&iconStyle=brands&shadowX=5&shadowY=3&shadowBlur=2&iconColor=18d88e)](https://github.com/AvijatChahar/AuraBrandOS)
