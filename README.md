@@ -1,5 +1,4 @@
-<!-- <img width="2095" height="546" alt="Avijat Chahar Dark Mode Brand Banner (1)" src="https://github.com/user-attachments/assets/a5daf3b9-2416-41e8-8aec-49e81dd2fcb0" /> -->
-<img width="1983" height="793" alt="Golden Rush_ Avijat Chahar" src="https://github.com/user-attachments/assets/a480e39c-d949-43b5-88f8-b899c48999d4" />
+<img width="2172" height="724" alt="Avijat Chahar_ Cinematic Tech Portrait" src="https://github.com/user-attachments/assets/88742f64-56c8-4ce7-be73-1d666e26943f" />
 
 <h3 align="center">AI Engineer - Full Stack Developer</h3>
 
