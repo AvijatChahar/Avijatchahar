@@ -52,7 +52,7 @@ const avijat_chahar = {
 <a href="https://x.com/avijatchahar" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="avijatchahar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/avijatchahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avijatchahar" height="30" width="40" /></a>
 <a href="https://instagram.com/avijatchahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avijatchahar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/avijatchahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avijatchahar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@AvijatChahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avijatchahar" height="30" width="40" /></a>
 <a href="mailto:avijat1chahar@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="avijatchahar" height="30" width="40" /></a>
 </p>
 </div>
